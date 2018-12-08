@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steppers/Controllers/Exercice.swift"
+            timestampString = "565891375.090386"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "Exercice"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.bFin.getter : weak Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877211.36664"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.bFin.setter : weak Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877211.3706681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Steppers.Exercice"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877211.372508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Steppers.Exercice&gt;"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877211.374288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "663">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steppers/Controllers/Exercice.swift"
+            timestampString = "565891375.090436"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Exercice"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.tfNombreEntre.getter : weak Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877214.777274"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.tfNombreEntre.setter : weak Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877214.779279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Steppers.Exercice"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877214.780995"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "599">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Steppers.Exercice.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Steppers.Exercice&gt;"
+                  moduleName = "Steppers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucderosne/Documents/IOS%20FORMATIONS/OPENCLASSROOM/00%20de%CC%81veloppez%20votre%20premie%CC%81re%20application%20pour%20IOS/Steppers/Steppers/Controllers/Exercice.swift"
+                  timestampString = "565877214.782518"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "563">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steppers/Controllers/Accueil.swift"
+            timestampString = "565898544.633022"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
